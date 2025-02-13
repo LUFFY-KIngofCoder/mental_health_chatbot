@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+ental_health_analysis/model.safetensors filter=lfs diff=lfs merge=lfs -text
+mental_health_analysis/model.safetensors filter=lfs diff=lfs merge=lfs -text
